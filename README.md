@@ -1,4 +1,4 @@
-# Upload Custom Fonst Style to your Shopify Store
+# Upload Custom Font Style to your Shopify Store
 You can upload any font style to your Shopify store with this code 
 
 This section lets you customize each heading, body or button element individually. You can upload as many custom fonts to your file manager and implement them in this section as u want. 
@@ -11,7 +11,7 @@ This section lets you customize each heading, body or button element individuall
 ```
 
 2. Create a new section and call it "my-custom-fonts.liquid"
-3. Copy this line of code and paste it to this new section and click save.
+3. Copy this line of code paste it to this new section and click save.
 
 ```
 {% if section.settings.enable %}
